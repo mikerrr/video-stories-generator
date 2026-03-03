@@ -1,0 +1,66 @@
+{
+  "topic": "6 навыков, которым не учат в школе",
+  "target_audience": "Подростки и молодые взрослые, которые чувствуют, что школа не готовит к реальной жизни",
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "Школа не учит",
+      "text": "Ты тоже закончил школу… и все равно не понимаешь, как жить во «взрослом мире»? Дело не в тебе — тебе просто не дали ключевые навыки.",
+      "visual_description": "Vertical 9:16 format. A young person in casual clothes stands in front of a huge blackboard filled with complex formulas and dates, looking confused and holding an empty toolbox labeled 'LIFE SKILLS'. The classroom looks slightly gloomy, with bright daylight coming from the window, emphasizing the contrast between theory on the board and the empty toolbox."
+    },
+    {
+      "slide_number": 2,
+      "title": "Навык №1: практика",
+      "text": "В школе: задачи про площадь. В жизни: надо недорого отремонтировать комнату. Умеешь превратить теорию в реальные действия?",
+      "visual_description": "A split-screen vertical image: on the left, a neat math notebook with area formulas and geometric figures; on the right, the same person in work clothes measuring a real wall with a tape measure, paint cans and parquet varnish nearby, calculator in hand, thinking and planning."
+    },
+    {
+      "slide_number": 3,
+      "title": "Навык №2: связывать знания",
+      "text": "В школе предметы лежат по разным «полкам». В жизни всё смешано: история, география, биология, деньги — в одной задаче.",
+      "visual_description": "A human brain drawn as a bookshelf with separate labeled sections: 'Math', 'History', 'Biology', 'Geography', all in closed boxes. Next to it, another brain where colorful lines connect icons from different fields (snow, army, map, temperature, money), showing an integrated picture of the world."
+    },
+    {
+      "slide_number": 4,
+      "title": "Навык №3: проверять инфу",
+      "text": "Списать доклад из интернета — легко. Понять, что там чушь или устаревшее — уже навык. Ты умеешь отличать знание от мусора?",
+      "visual_description": "A teen sitting at a desk with a laptop, the screen shows a messy webpage with clickbait headlines and red warning signs. Around them float transparent panels with search results, some marked with green checkmarks 'reliable source' and others with red crosses 'fake', the teen squints critically, crossing something out in their notes."
+    },
+    {
+      "slide_number": 5,
+      "title": "Навык №4: ориентироваться",
+      "text": "«От Москвы до Берлина» — это сколько в часах, днях, километрах? Умение видеть картину целиком экономит время, деньги и нервы.",
+      "visual_description": "A large semi-transparent map of Europe overlaid in the air. A young person traces a route from Moscow to Berlin with their finger, while around them appear floating labels with distances, travel time by foot, car, and plane. In the background, faded school globes and rulers lie unused."
+    },
+    {
+      "slide_number": 6,
+      "title": "Навык №5: чувства и люди",
+      "text": "В школе учат решать уравнения, но не конфликты. Понимать свои эмоции и чужие — это тоже навык, а не «врождённый талант».",
+      "visual_description": "Two teens are sitting on a bench: at first they look turned away and tense, with speech bubbles full of scribbles. In the next frame overlay, they face each other, calmer, with clear icons above their heads: a heart, an ear, and a handshake. The background is a schoolyard, slightly blurred."
+    },
+    {
+      "slide_number": 7,
+      "title": "Навык №6: планировать",
+      "text": "Учёба, ЕГЭ, друзья, хобби… Без планирования это вечный стресс и чувство вины. С планом — ты управляешь своим днём, а не наоборот.",
+      "visual_description": "A before/after vertical composition: on top, a chaotic scene with notifications popping up, messy desk, the person looks overwhelmed. On the bottom, the same person calmer, with a simple handwritten weekly planner, highlighted time blocks for study, friends, hobbies, and rest, phone notifications minimized."
+    },
+    {
+      "slide_number": 8,
+      "title": "В чём подвох школы",
+      "text": "Школа даёт предметы, но почти не даёт метанавыки: как соединять знания, общаться, планировать и проверять информацию. А именно на этом строится взрослая жизнь.",
+      "visual_description": "A traditional school building facade. Inside, visible through cutaway rooms, teachers pour colored 'subject' liquids (Math, History, Chemistry) into separate jars. Below, in the 'real world' outside, a person mixes these liquids into one big container labeled 'LIFE', creating a bright, powerful mixture that lights up the street."
+    },
+    {
+      "slide_number": 9,
+      "title": "Что с этим делать",
+      "text": "Хорошая новость: все эти навыки можно добрать самому. Маленькие проекты, критическое мышление, честные разговоры и простой ежедневный план — уже начало.",
+      "visual_description": "A young person at a desk creating a personal 'life curriculum' on a big sheet: boxes titled 'Practice', 'Critical thinking', 'Communication', 'Planning'. Around them are small icons: a DIY project, a magnifying glass over text, two people talking, a calendar. Warm light from a desk lamp creates a feeling of agency and hope."
+    },
+    {
+      "slide_number": 10,
+      "title": "Твой следующий шаг",
+      "text": "Выбери один навык, которого тебе сильнее всего не хватает. И сегодня сделай крошечный шаг, чтобы его прокачать.",
+      "visual_description": "Close-up of a hand holding a phone screen with a simple checklist of the six skills, one of them highlighted. Next to the phone is a pen ticking off 'first step done'. Background is soft and minimal, with subtle icons of progress bars moving slightly upward."
+    }
+  ]
+}

@@ -80,6 +80,17 @@ print(f"Ролик: {result}")
 python test_generate.py
 ```
 
+### Пример работы
+
+В папке `test_story2` находится пример работы библиотеки на основе статьи «6 полезных навыков, которым, к сожалению, не учат в школе».
+
+**Сгенерированные артефакты:**
+- 📄 Исходный текст: [`6 полезных навыков, которым, к сожалению, не учат в школе.md`](test_story2/6%20полезных%20навыков,%20которым,%20к%20сожалению,%20не%20учат%20в%20школе.md)
+- 📝 План слайдов: [`slides_outline.json`](test_story2/slides_outline.json)
+- 🎨 Промпты для генерации: [`image_prompts.json`](test_story2/image_prompts.json)
+- 🖼 Изображения (10 штук): [`slide_01.png`](test_story2/slide_01.png) ... [`slide_10.png`](test_story2/slide_10.png)
+- 🎬 Готовое видео: [`story.mp4`](test_story2/story.mp4)
+
 ### Структура проекта
 
 ```
@@ -179,6 +190,17 @@ print(f"Video: {result}")
 ```bash
 python test_generate.py
 ```
+
+### Example
+
+The `test_story2` folder contains an example of the library's output based on a sample article.
+
+**Generated artifacts:**
+- 📄 Original text: [`6 полезных навыков, которым, к сожалению, не учат в школе.md`](test_story2/6%20полезных%20навыков,%20которым,%20к%20сожалению,%20не%20учат%20в%20школе.md)
+- 📝 Slide plan: [`slides_outline.json`](test_story2/slides_outline.json)
+- 🎨 Image prompts: [`image_prompts.json`](test_story2/image_prompts.json)
+- 🖼 Images (10 slides): [`slide_01.png`](test_story2/slide_01.png) ... [`slide_10.png`](test_story2/slide_10.png)
+- 🎬 Final video: [`story.mp4`](test_story2/story.mp4)
 
 ### Project Structure
 

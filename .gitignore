@@ -9,11 +9,7 @@ build/
 config_*.json
 !config.json
 
-# Generated files
-*.mp4
-slides_outline.json
-image_prompts.json
-slide_*.png
+
 
 # Logs
 run_*.log
