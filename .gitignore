@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Configs with API keys
+config_*.json
+!config.json
+
+# Generated files
+*.mp4
+slides_outline.json
+image_prompts.json
+slide_*.png
+
+# Logs
+run_*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
