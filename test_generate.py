@@ -32,7 +32,7 @@ def main():
 
     # Параметры
     input_folder = "test_story2"
-    config_path = "config_my.json"
+    config_path = "config.json"
 
     # Проверяем наличие входных данных
     if not Path(input_folder).exists():
